@@ -5,3 +5,5 @@ Simple point saving, should give most people a boost to understanding how ModSav
 
 Made in UE 4.27, lmk if theres any issues to getting it on your version.
 
+drag the gl into your content folder i think idk
+
